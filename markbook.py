@@ -1,6 +1,6 @@
 """
 Markbook Application
-Group members: 
+Group members: YingChen Ma, Simon Li, Charlie Guo
 """
 
 
